@@ -1,3 +1,3 @@
-function gst -d "git status"
+function gst -w "git status"
   git status $argv
 end

@@ -1,3 +1,3 @@
-function glg -d "git log"
-  git log
+function glg -w "git log"
+  git log $argv
 end
