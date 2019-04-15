@@ -1,4 +1,4 @@
-function ga -d "git add"
+function ga -w "git add"
   git add $argv
 end
 

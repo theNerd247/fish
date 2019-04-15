@@ -1,4 +1,4 @@
-function gc -d "git commit"
+function gc -w "git commit"
   git commit $argv
 end
 

@@ -1,3 +1,3 @@
-function glgga -d "git log --graph --oneline --all --decorate"
+function glgga -w "git log"
   git log --graph --oneline --all --decorate
 end

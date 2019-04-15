@@ -1,3 +1,3 @@
-function hl -d "hledger"
+function hl -w "hledger"
   hledger $argv
 end
